@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{CDDDB27F-6AC9-487D-9187-CA6112B57588}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{57B9FCB6-73EF-4C77-AE82-CE536E50D2C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{57B9FCB6-73EF-4C77-AE82-CE536E50D2C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{55B84A83-9A85-4E1C-ACDB-6DBD702A9C5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{55B84A83-9A85-4E1C-ACDB-6DBD702A9C5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProject", "GameProject\GameProject.csproj", "{796A6369-346D-4A67-942A-C9D7B8543516}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{55B84A83-9A85-4E1C-ACDB-6DBD702A9C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55B84A83-9A85-4E1C-ACDB-6DBD702A9C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55B84A83-9A85-4E1C-ACDB-6DBD702A9C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796A6369-346D-4A67-942A-C9D7B8543516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796A6369-346D-4A67-942A-C9D7B8543516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796A6369-346D-4A67-942A-C9D7B8543516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796A6369-346D-4A67-942A-C9D7B8543516}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

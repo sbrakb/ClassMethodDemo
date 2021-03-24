@@ -7,7 +7,7 @@ namespace OOP
         static void Main(string[] args)
         {
             RealCustomer customer1 = new RealCustomer();
-            customer1.Id=1
+            customer1.Id = 1;
             customer1.Number = "123456";
             customer1.FirstName = "Sabır";
             customer1.LastName = "Akbana";
